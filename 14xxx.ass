@@ -1,0 +1,333 @@
+﻿[Script Info]
+Title: Español
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Hero_Main,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,2,30,30,54,1
+Style: Hero_Italics,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,2,30,30,54,1
+Style: Hero_Main_Up,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00000000,&H00090909,0,0,0,0,100,100,0,0,1,5.0,0,8,30,30,54,1
+Style: Hero_Italics_top,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,8,30,30,54,1
+Style: Hero_TitleEp,Roboto Condensed,65,&H000000FF,&H000000FF,&H00060503,&H00060503,0,-1,0,0,100,100,0,0,1,5.0,0,8,60,60,90,1
+Style: Hero_Avance,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,300,1
+Style: Hero_Name,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00000000,&H00FFFFFF,0,0,0,0,100,100,0,0,1,5.0,0,8,105,105,60,1
+Style: Hero_Next,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00060503,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,90,1
+Style: Hero_Nota,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00262626,&H00505050,0,0,0,0,100,100,0,0,1,5.0,0,8,30,30,54,1
+Style: Hero_A_Tre,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,60,1
+Style: Hero_B_Tre,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00000000,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,60,1
+Style: Hero_C_Tre,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,60,1
+Style: Hero_A_Tim,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00303030,&H00303030,0,0,0,0,100,100,0,0,1,0,0,8,60,60,60,1
+Style: Hero_B_Tim,Roboto Condensed,65,&H00FFFFFF,&H000000FF,&H00D9D9D9,&H00D9D9D9,0,0,0,0,100,100,0,0,1,0,0,8,60,60,60,1
+Style: Hero_C_Tim,Roboto Condensed,65,&H00000000,&H000000FF,&H00FFFFFF,&H00FFFFFF,0,0,0,0,100,100,0,0,1,5.0,0,8,60,60,60,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:02.13,0:00:04.38,Hero_Italics,,0000,0000,0000,,Escuela U.A. para héroes.
+Dialogue: 0,0:00:03.79,0:00:09.00,Hero_C_Tre,,0000,0000,0000,,Examen de ingreso\Npara la escuela U.A.
+Dialogue: 0,0:00:04.38,0:00:08.98,Hero_Italics,,0000,0000,0000,,Una escuela para desarrollar\Nlas cualidades de un héroe profesional.
+Dialogue: 0,0:00:09.34,0:00:10.72,Hero_Italics,,0000,0000,0000,,Hay otras escuelas,
+Dialogue: 0,0:00:10.72,0:00:13.23,Hero_Italics,,0000,0000,0000,,pero esta es la más famosa\Ny competitiva,
+Dialogue: 0,0:00:13.23,0:00:15.62,Hero_Italics,,0000,0000,0000,,y aceptan a uno de cada 300 candidatos.
+Dialogue: 0,0:00:17.17,0:00:20.16,Hero_Italics,,0000,0000,0000,,El héroe que rechazó un premio nacional:
+Dialogue: 0,0:00:20.96,0:00:23.42,Hero_Italics,,0000,0000,0000,,el héroe número uno, All Might.
+Dialogue: 0,0:00:24.63,0:00:27.02,Hero_Italics,,0000,0000,0000,,El héroe con récord de intervenciones…
+Dialogue: 0,0:00:27.54,0:00:30.38,Hero_Italics,,0000,0000,0000,,El héroe llameante, Endeavor.
+Dialogue: 0,0:00:31.25,0:00:34.06,Hero_Italics,,0000,0000,0000,,El ganador de mejor jeanist\Npor ocho años seguidos:
+Dialogue: 0,0:00:34.11,0:00:35.70,Hero_Italics,,0000,0000,0000,,Best Jeanist.
+Dialogue: 0,0:00:36.64,0:00:41.23,Hero_Italics,,0000,0000,0000,,Graduarse en la U.A.\Nes un requisito para ser un gran héroe.
+Dialogue: 0,0:00:42.34,0:00:46.60,Hero_Italics,,0000,0000,0000,,Y así, llegué al examen de la U.A.
+Dialogue: 0,0:00:46.60,0:00:47.65,Hero_Italics,,0000,0000,0000,,Daré…
+Dialogue: 0,0:00:48.34,0:00:51.93,Hero_Italics,,0000,0000,0000,,¡el primer paso hacia mi sueño\Nde convertirme en héroe!
+Dialogue: 0,0:02:23.37,0:02:26.37,Hero_A_Tre,,0000,0000,0000,,Examen de ingreso de la escuela U.A.
+Dialogue: 0,0:02:27.50,0:02:30.08,Hero_A_Tre,,0000,0000,0000,,Centro de batalla B
+Dialogue: 0,0:02:28.29,0:02:30.08,Hero_Main,,0000,0000,0000,,¿Qué es esto?
+Dialogue: 0,0:02:30.08,0:02:31.36,Hero_Main,,0000,0000,0000,,¡Es como una ciudad!
+Dialogue: 0,0:02:31.36,0:02:34.56,Hero_Main,,0000,0000,0000,,¿Tienen más de estos\Nen el recinto escolar?
+Dialogue: 0,0:02:34.56,0:02:36.92,Hero_Main,,0000,0000,0000,,¡La U.A. es genial!
+Dialogue: 0,0:02:37.34,0:02:39.05,Hero_Main,,0000,0000,0000,,Como dicen los requisitos,
+Dialogue: 0,0:02:39.05,0:02:44.22,Hero_Main,,0000,0000,0000,,¡tendrán diez minutos\Npara un simulacro de batalla!
+Dialogue: 0,0:02:44.85,0:02:49.56,Hero_Main,,0000,0000,0000,,Habrá tres tipos diferentes\Nde villanos en cada centro.
+Dialogue: 0,0:02:49.56,0:02:53.19,Hero_Main,,0000,0000,0000,,Ganarán puntos por cada uno\Nde ellos según su dificultad.
+Dialogue: 0,0:02:53.75,0:02:57.48,Hero_Main,,0000,0000,0000,,Su objetivo es usar su Don
+Dialogue: 0,0:02:57.48,0:03:00.24,Hero_Main,,0000,0000,0000,,para ganar puntos al derrotarlos.
+Dialogue: 0,0:03:01.44,0:03:03.90,Hero_Main,,0000,0000,0000,,Simulacros de batalla…
+Dialogue: 0,0:03:05.59,0:03:08.16,Hero_Italics,,0000,0000,0000,,¿Cómo está todo el mundo tan confiado?
+Dialogue: 0,0:03:08.16,0:03:09.67,Hero_Italics,,0000,0000,0000,,¿No están nerviosos?
+Dialogue: 0,0:03:11.12,0:03:13.30,Hero_Italics,,0000,0000,0000,,Llevan equipo acorde a su Don…
+Dialogue: 0,0:03:14.45,0:03:17.72,Hero_Italics,,0000,0000,0000,,¡Es la chica amable\Nque conocí en la puerta!
+Dialogue: 0,0:03:17.72,0:03:19.68,Hero_Italics,,0000,0000,0000,,¿Está en este centro de batalla?
+Dialogue: 0,0:03:20.56,0:03:23.13,Hero_Italics,,0000,0000,0000,,Sí, tengo que agradecerle lo de antes.
+Dialogue: 0,0:03:26.16,0:03:27.35,Hero_Italics,,0000,0000,0000,,¿Él también?
+Dialogue: 0,0:03:28.48,0:03:31.60,Hero_Main,,0000,0000,0000,,Esa chica intenta concentrarse.
+Dialogue: 0,0:03:32.36,0:03:33.88,Hero_Main,,0000,0000,0000,,¿Qué haces aquí?
+Dialogue: 0,0:03:33.88,0:03:35.94,Hero_Main,,0000,0000,0000,,¿Haces el examen para molestar?
+Dialogue: 0,0:03:35.94,0:03:37.64,Hero_Main,,0000,0000,0000,,No, claro que no…
+Dialogue: 0,0:03:37.64,0:03:40.82,Hero_Main,,0000,0000,0000,,Ese es el que casi se cae\Nen la puerta, ¿verdad?
+Dialogue: 0,0:03:41.24,0:03:43.50,Hero_Main,,0000,0000,0000,,Al que llamaron la atención.
+Dialogue: 0,0:03:43.50,0:03:46.41,Hero_Main,,0000,0000,0000,,No tendremos\Nque preocuparnos por él, ¿no?
+Dialogue: 0,0:03:46.41,0:03:53.00,Hero_A_Tre,,0000,0000,0000,,Suerte
+Dialogue: 0,0:03:47.19,0:03:49.48,Hero_Main,,0000,0000,0000,,Qué suerte.
+Dialogue: 0,0:03:49.82,0:03:53.00,Hero_Italics,,0000,0000,0000,,Los demás creen que tienen\Nsuerte porque estoy aquí…
+Dialogue: 0,0:03:53.00,0:03:54.81,Hero_Main,,0000,0000,0000,,¡Bien, start!
+Dialogue: 0,0:03:55.25,0:03:58.92,Hero_Main,,0000,0000,0000,,¿Qué ocurre? ¡No hay cuenta regresiva\Nen una lucha real!
+Dialogue: 0,0:03:58.92,0:04:00.49,Hero_Main,,0000,0000,0000,,¡Corran, corran!
+Dialogue: 0,0:04:00.49,0:04:02.42,Hero_Main,,0000,0000,0000,,¡La suerte está echada!
+Dialogue: 0,0:04:07.96,0:04:11.68,Hero_Italics,,0000,0000,0000,,¡Ya me dejaron atrás!
+Dialogue: 0,0:04:11.68,0:04:15.69,Hero_TitleEp,,0000,0000,0000,,{\c&HFFFFFF&}Episodio 4{\c&H0000FF&}\NLínea de salida
+Dialogue: 0,0:04:16.71,0:04:17.94,Hero_Italics,,0000,0000,0000,,Voy rezagado.
+Dialogue: 0,0:04:18.30,0:04:22.11,Hero_Italics,,0000,0000,0000,,Calma, calma.\N¡No pasa nada, no pasa nada!
+Dialogue: 0,0:04:22.19,0:04:25.82,Hero_B_Tre,,0000,0000,0000,,Parque de la playa municipal Dagoba
+Dialogue: 0,0:04:22.65,0:04:25.03,Hero_Italics,,0000,0000,0000,,All Might va conmigo.
+Dialogue: 0,0:04:28.91,0:04:31.00,Hero_Main,,0000,0000,0000,,¡Bien! Te tragaste el pelo, ¿no?
+Dialogue: 0,0:04:32.58,0:04:35.13,Hero_Main,,0000,0000,0000,,No me siento diferente…
+Dialogue: 0,0:04:36.92,0:04:38.30,Hero_Main,,0000,0000,0000,,¡Claro que no!
+Dialogue: 0,0:04:38.30,0:04:41.20,Hero_Main,,0000,0000,0000,,¿Qué crees que hace el estómago?
+Dialogue: 0,0:04:41.20,0:04:44.79,Hero_Main,,0000,0000,0000,,Bueno, sentirás algo\Nen dos o tres horas.
+Dialogue: 0,0:04:45.35,0:04:46.93,Hero_Main,,0000,0000,0000,,Estoy muy nervioso…
+Dialogue: 0,0:04:47.28,0:04:50.49,Hero_Main,,0000,0000,0000,,Necesito apresurarme,\Ntomar una ducha y desayunar.
+Dialogue: 0,0:04:50.93,0:04:53.08,Hero_Main,,0000,0000,0000,,Ya eres un buen recipiente,
+Dialogue: 0,0:04:53.14,0:04:55.70,Hero_Main,,0000,0000,0000,,pero uno que se hizo con prisas.
+Dialogue: 0,0:04:56.68,0:04:59.30,Hero_Main,,0000,0000,0000,,No pudiste ni probarlo…
+Dialogue: 0,0:04:59.30,0:05:02.39,Hero_Main,,0000,0000,0000,,Habrá repercusiones físicas\Nen tu cuerpo.
+Dialogue: 0,0:05:03.60,0:05:08.03,Hero_Main,,0000,0000,0000,,No tengo tiempo de explicártelo,\Nasí que solo te diré esto.
+Dialogue: 0,0:05:08.76,0:05:12.04,Hero_Italics,,0000,0000,0000,,Cuando uses mi Don, One For All,
+Dialogue: 0,0:05:12.04,0:05:16.57,Hero_Italics,,0000,0000,0000,,aprieta las nalgas y grita por dentro…
+Dialogue: 0,0:05:16.57,0:05:17.32,Hero_Italics,,0000,0000,0000,,"S…".
+Dialogue: 0,0:05:20.75,0:05:22.01,Hero_Main,,0000,0000,0000,,¡Un punto!
+Dialogue: 0,0:05:23.53,0:05:27.34,Hero_Italics,,0000,0000,0000,,Objetivo localizado. ¡Te mataré!
+Dialogue: 0,0:05:27.97,0:05:30.18,Hero_Italics,,0000,0000,0000,,¡Viene! ¡Viene! ¡Viene!
+Dialogue: 0,0:05:31.29,0:05:33.72,Hero_Italics,,0000,0000,0000,,¿Por qué no puedo moverme?
+Dialogue: 0,0:05:35.03,0:05:36.98,Hero_Italics,,0000,0000,0000,,¡Tonto, ¿por qué?!
+Dialogue: 0,0:05:41.46,0:05:42.73,Hero_Main,,0000,0000,0000,,¡Gracias, carnada!
+Dialogue: 0,0:05:44.24,0:05:45.40,Hero_Main,,0000,0000,0000,,¿Un láser?
+Dialogue: 0,0:05:45.91,0:05:50.28,Hero_Main,,0000,0000,0000,,Merci ! Hacemos buen equipo.
+Dialogue: 0,0:05:50.28,0:05:54.09,Hero_Main,,0000,0000,0000,,Pero no creo que nos volvamos a ver.
+Dialogue: 0,0:05:54.70,0:05:56.47,Hero_Main,,0000,0000,0000,,Adieu !
+Dialogue: 0,0:05:56.47,0:05:58.01,Hero_Main,,0000,0000,0000,,¿No nos volveremos a ver?
+Dialogue: 0,0:05:58.01,0:06:00.83,Hero_Main,,0000,0000,0000,,¡Quedan seis minutos y dos segundos!
+Dialogue: 0,0:06:00.96,0:06:02.44,Hero_Italics,,0000,0000,0000,,¡Rayos, rayos!
+Dialogue: 0,0:06:02.44,0:06:03.46,Hero_Italics,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:06:03.92,0:06:05.05,Hero_Italics,,0000,0000,0000,,Puntos…
+Dialogue: 0,0:06:05.05,0:06:07.01,Hero_Italics,,0000,0000,0000,,¡Necesito puntos!
+Dialogue: 0,0:06:18.70,0:06:19.81,Hero_Italics,,0000,0000,0000,,¡La chica amable!
+Dialogue: 0,0:06:26.55,0:06:27.61,Hero_Main,,0000,0000,0000,,¡Liberar!
+Dialogue: 0,0:06:32.11,0:06:34.49,Hero_Main,,0000,0000,0000,,Eso hacen 28 puntos…
+Dialogue: 0,0:06:34.78,0:06:36.58,Hero_Italics,,0000,0000,0000,,¿Qué? ¿28?
+Dialogue: 0,0:06:41.16,0:06:42.79,Hero_Main,,0000,0000,0000,,¡45 puntos!
+Dialogue: 0,0:06:42.79,0:06:44.55,Hero_Main,,0000,0000,0000,,¡¿45?!
+Dialogue: 0,0:06:44.92,0:06:46.51,Hero_Main,,0000,0000,0000,,¡Ya tengo 32!
+Dialogue: 0,0:06:46.51,0:06:48.27,Hero_Main,,0000,0000,0000,,¡Es mío! ¡No me lo quites!
+Dialogue: 0,0:06:48.27,0:06:50.18,Hero_Main,,0000,0000,0000,,¡Es del primero que llega!
+Dialogue: 0,0:06:50.66,0:06:53.26,Hero_Italics,,0000,0000,0000,,¡El número de enemigos cae rápidamente!
+Dialogue: 0,0:06:53.58,0:06:54.87,Hero_Italics,,0000,0000,0000,,¡Rayos!
+Dialogue: 0,0:06:55.76,0:06:57.36,Hero_Main,,0000,0000,0000,,En este examen práctico,
+Dialogue: 0,0:06:57.42,0:07:01.44,Hero_Main,,0000,0000,0000,,los examinandos no conocen\Nel número de villanos o dónde están.
+Dialogue: 0,0:07:01.44,0:07:04.00,Hero_Main,,0000,0000,0000,,Una gran zona y tiempo limitado.
+Dialogue: 0,0:07:04.00,0:07:06.61,Hero_Main,,0000,0000,0000,,Tienen que sacar a los villanos fuera.
+Dialogue: 0,0:07:06.88,0:07:10.49,Hero_Main,,0000,0000,0000,,Reunir información\Npara comprender la situación.
+Dialogue: 0,0:07:10.84,0:07:13.99,Hero_Main,,0000,0000,0000,,Movilidad para usar\Nen diferentes circunstancias.
+Dialogue: 0,0:07:13.99,0:07:18.00,Hero_Main,,0000,0000,0000,,Perspicacia para estar calmados\Nen cualquier situación.
+Dialogue: 0,0:07:18.00,0:07:21.17,Hero_Main,,0000,0000,0000,,Y habilidad de combate.
+Dialogue: 0,0:07:22.59,0:07:25.63,Hero_Main,,0000,0000,0000,,Estas habilidades para mantener la paz
+Dialogue: 0,0:07:25.63,0:07:28.01,Hero_Main,,0000,0000,0000,,son cruciales en este examen.
+Dialogue: 0,0:07:28.01,0:07:30.84,Hero_Main,,0000,0000,0000,,¿No parece prometedor este año?
+Dialogue: 0,0:07:30.84,0:07:33.68,Hero_Main,,0000,0000,0000,,Bueno, no podemos saberlo\Ncon seguridad.
+Dialogue: 0,0:07:33.68,0:07:37.88,Hero_Main,,0000,0000,0000,,Su verdadera prueba acaba de empezar.
+Dialogue: 0,0:07:59.29,0:08:02.16,Hero_Main,,0000,0000,0000,,Se volverá loco\Nen un espacio cerrado.
+Dialogue: 0,0:08:02.49,0:08:05.58,Hero_Main,,0000,0000,0000,,Recomiendo que lo eviten.
+Dialogue: 0,0:08:06.56,0:08:08.34,Hero_Italics,,0000,0000,0000,,¿No es demasiado grande?
+Dialogue: 0,0:08:23.59,0:08:25.31,Hero_Main,,0000,0000,0000,,Una amenaza arrolladora.
+Dialogue: 0,0:08:26.01,0:08:29.62,Hero_Main,,0000,0000,0000,,Sus reacciones al verlo\Nmostrarán su verdadera naturaleza.
+Dialogue: 0,0:08:31.96,0:08:35.45,Hero_Main,,0000,0000,0000,,¡No, debo huir!\NConseguiré puntos en otro sitio…
+Dialogue: 0,0:08:35.96,0:08:38.62,Hero_Italics,,0000,0000,0000,,¡Rayos, rayos, sigo con cero puntos!
+Dialogue: 0,0:08:39.38,0:08:41.70,Hero_Main,,0000,0000,0000,,¡Quedan menos de dos minutos!
+Dialogue: 0,0:08:42.24,0:08:43.41,Hero_Main,,0000,0000,0000,,¡¿Dos minutos?!
+Dialogue: 0,0:08:44.52,0:08:48.00,Hero_Italics,,0000,0000,0000,,Será un desperdicio.\N¡Todo lo que me dio All Might…
+Dialogue: 0,0:08:48.37,0:08:49.82,Hero_Italics,,0000,0000,0000,,se desperdiciará!
+Dialogue: 0,0:08:51.28,0:08:52.15,Hero_Main,,0000,0000,0000,,¡Maldición!
+Dialogue: 0,0:09:07.19,0:09:10.54,Hero_Main,,0000,0000,0000,,Pero traería mala suerte\Nsi te cayeras, ¿no?
+Dialogue: 0,0:09:16.80,0:09:20.58,Hero_Main,,0000,0000,0000,,No hay mérito en derrotar\Na un villano falso.
+Dialogue: 0,0:09:21.45,0:09:23.98,Hero_Main,,0000,0000,0000,,Eso crea la oportunidad…
+Dialogue: 0,0:09:24.38,0:09:25.29,Hero_Main,,0000,0000,0000,,para brillar…
+Dialogue: 0,0:09:29.12,0:09:31.42,Hero_Main,,0000,0000,0000,,y destacar sobre el resto.
+Dialogue: 0,0:09:41.56,0:09:44.14,Hero_Main,,0000,0000,0000,,Aprieta las nalgas
+Dialogue: 0,0:09:44.59,0:09:46.89,Hero_Main,,0000,0000,0000,,y grita por dentro…
+Dialogue: 0,0:09:48.77,0:09:53.53,Hero_Italics,,0000,0000,0000,,¡Smash!
+Dialogue: 0,0:10:01.44,0:10:04.84,Hero_Main,,0000,0000,0000,,Eso es. Destaca sobre el resto…
+Dialogue: 0,0:10:04.84,0:10:06.85,Hero_Main,,0000,0000,0000,,Lo más importante para un héroe…
+Dialogue: 0,0:10:08.84,0:10:12.76,Hero_Main,,0000,0000,0000,,¡El autosacrificio!
+Dialogue: 0,0:10:24.03,0:10:29.16,Hero_Italics,,0000,0000,0000,,Las condiciones son las mismas\Nque cuando intenté salvar a Kacchan.
+Dialogue: 0,0:10:31.88,0:10:34.31,Hero_Italics,,0000,0000,0000,,Pero es diferente. Esta vez…
+Dialogue: 0,0:10:38.46,0:10:39.99,Hero_Main,,0000,0000,0000,,¡Queda un minuto!
+Dialogue: 0,0:10:46.59,0:10:49.05,Hero_Italics,,0000,0000,0000,,Espera, este es el poder de All Might.
+Dialogue: 0,0:10:49.05,0:10:51.13,Hero_Italics,,0000,0000,0000,,Ahora puedo saltar a esta altura.
+Dialogue: 0,0:10:51.13,0:10:56.09,Hero_Italics,,0000,0000,0000,,Aterrizar será muy fá-cil-cil-cil-cil…
+Dialogue: 0,0:10:57.21,0:10:58.92,Hero_Italics,,0000,0000,0000,,¿Roto?
+Dialogue: 0,0:10:57.21,0:10:58.92,Hero_C_Tre,,0000,0000,0000,,Roto
+Dialogue: 0,0:11:02.30,0:11:04.32,Hero_Italics,,0000,0000,0000,,Ya eres un buen recipiente,
+Dialogue: 0,0:11:04.36,0:11:06.96,Hero_Italics,,0000,0000,0000,,pero uno que se hizo con prisas.
+Dialogue: 0,0:11:07.18,0:11:09.92,Hero_Italics,,0000,0000,0000,,Habrá repercusiones físicas\Nen tu cuerpo.
+Dialogue: 0,0:11:10.02,0:11:12.77,Hero_Italics,,0000,0000,0000,,¡Es verdad! ¡Soy un tonto!
+Dialogue: 0,0:11:13.20,0:11:16.65,Hero_Italics,,0000,0000,0000,,Solo diez meses\Nno fueron tiempo suficiente.
+Dialogue: 0,0:11:18.87,0:11:22.16,Hero_Italics,,0000,0000,0000,,Casi no puedo contener este poder.
+Dialogue: 0,0:11:22.52,0:11:24.78,Hero_Italics,,0000,0000,0000,,¡Fui un engreído por un segundo!
+Dialogue: 0,0:11:26.49,0:11:31.27,Hero_Italics,,0000,0000,0000,,¡Solo me permitieron\Nquedarme en la línea de salida!
+Dialogue: 0,0:11:36.55,0:11:39.26,Hero_Italics,,0000,0000,0000,,¡Piensa! ¿Qué hago? ¿Qué hago?
+Dialogue: 0,0:11:40.26,0:11:41.93,Hero_Italics,,0000,0000,0000,,¡Detroit Smash!
+Dialogue: 0,0:11:42.34,0:11:44.44,Hero_Italics,,0000,0000,0000,,¡Si apunto al suelo…!
+Dialogue: 0,0:11:44.93,0:11:47.50,Hero_Italics,,0000,0000,0000,,Tengo las piernas y un brazo rotos.
+Dialogue: 0,0:11:47.50,0:11:48.81,Hero_Italics,,0000,0000,0000,,¡Dependo del izquierdo!
+Dialogue: 0,0:11:48.81,0:11:49.77,Hero_Italics,,0000,0000,0000,,Y el momento…
+Dialogue: 0,0:11:49.98,0:11:52.10,Hero_Italics,,0000,0000,0000,,Si lo hago en mal momento, ¡moriré!
+Dialogue: 0,0:11:52.10,0:11:54.73,Hero_Italics,,0000,0000,0000,,Aunque tenga éxito, ¡no tendré puntos!
+Dialogue: 0,0:11:56.08,0:12:00.36,Hero_Italics,,0000,0000,0000,,Si me rompo el brazo, ¡no podré aprobar!
+Dialogue: 0,0:12:17.81,0:12:18.96,Hero_Main,,0000,0000,0000,,Liberar…
+Dialogue: 0,0:12:30.88,0:12:32.88,Hero_Italics,,0000,0000,0000,,Estoy a salvo…
+Dialogue: 0,0:12:32.88,0:12:35.43,Hero_Italics,,0000,0000,0000,,No, ella me salvó…
+Dialogue: 0,0:12:36.67,0:12:41.29,Hero_Italics,,0000,0000,0000,,¿Está bien? Parece ilesa, ¿no?
+Dialogue: 0,0:12:42.05,0:12:43.93,Hero_Main,,0000,0000,0000,,Me alegro…
+Dialogue: 0,0:12:45.09,0:12:46.68,Hero_Main,,0000,0000,0000,,Y…
+Dialogue: 0,0:12:47.65,0:12:48.97,Hero_Main,,0000,0000,0000,,¡gracias!
+Dialogue: 0,0:12:50.04,0:12:53.54,Hero_Main,,0000,0000,0000,,Si al menos puedo obtener un punto…
+Dialogue: 0,0:12:53.54,0:12:57.29,Hero_Main,,0000,0000,0000,,¡Se acabó el tiempo!
+Dialogue: 0,0:13:21.46,0:13:23.92,Hero_Main,,0000,0000,0000,,¿Qué es ese chico?
+Dialogue: 0,0:13:23.92,0:13:26.51,Hero_Main,,0000,0000,0000,,De repente saltó al obstáculo.
+Dialogue: 0,0:13:26.51,0:13:31.53,Hero_Main,,0000,0000,0000,,Parecía un Don de potenciación,\Npero era raro…
+Dialogue: 0,0:13:31.53,0:13:34.40,Hero_Main,,0000,0000,0000,,Si tenía un Don tan impresionante,
+Dialogue: 0,0:13:34.40,0:13:38.21,Hero_Main,,0000,0000,0000,,¿qué tipo de vida vivió\Npara ser tan nervioso?
+Dialogue: 0,0:13:38.21,0:13:40.30,Hero_Main,,0000,0000,0000,,¿Tal vez actuaba para engañarnos?
+Dialogue: 0,0:13:40.30,0:13:45.05,Hero_Main,,0000,0000,0000,,Pero no parece\Nque haya ganado nada con eso.
+Dialogue: 0,0:13:45.05,0:13:49.22,Hero_Main,,0000,0000,0000,,Bueno, no hay duda\Nde que es impresionante.
+Dialogue: 0,0:13:49.64,0:13:51.62,Hero_Italics,,0000,0000,0000,,No lo entienden.
+Dialogue: 0,0:13:51.62,0:13:53.20,Hero_Italics,,0000,0000,0000,,¿No lo vieron?
+Dialogue: 0,0:13:55.04,0:13:58.68,Hero_Italics,,0000,0000,0000,,Saltó para salvar a esa chica.
+Dialogue: 0,0:13:59.96,0:14:03.08,Hero_Italics,,0000,0000,0000,,Sabía el tiempo que quedaba,\Nsu propia seguridad
+Dialogue: 0,0:14:03.52,0:14:06.11,Hero_Italics,,0000,0000,0000,,y los puntos que necesitaba…
+Dialogue: 0,0:14:06.96,0:14:10.57,Hero_Italics,,0000,0000,0000,,¡Y aun así, no dudó!
+Dialogue: 0,0:14:16.63,0:14:18.74,Hero_Italics,,0000,0000,0000,,Si no hubiera sido un examen,
+Dialogue: 0,0:14:20.71,0:14:23.56,Hero_Italics,,0000,0000,0000,,¡claro que yo habría hecho lo mismo!
+Dialogue: 0,0:14:25.30,0:14:29.05,Hero_Italics,,0000,0000,0000,,Espera. ¿Examen? ¿Claro?
+Dialogue: 0,0:14:29.80,0:14:30.89,Hero_Italics,,0000,0000,0000,,Espera.
+Dialogue: 0,0:14:31.97,0:14:35.06,Hero_Main,,0000,0000,0000,,Bien, buen trabajo.
+Dialogue: 0,0:14:35.62,0:14:38.31,Hero_Main,,0000,0000,0000,,Buen trabajo, buen trabajo.
+Dialogue: 0,0:14:38.31,0:14:39.74,Hero_Main,,0000,0000,0000,,Ten unas gominolas.
+Dialogue: 0,0:14:39.74,0:14:41.06,Hero_Main,,0000,0000,0000,,Cómelas.
+Dialogue: 0,0:14:41.96,0:14:43.77,Hero_Main,,0000,0000,0000,,Gracias.
+Dialogue: 0,0:14:43.77,0:14:46.11,Hero_Main,,0000,0000,0000,,Sí, sí, tú también.
+Dialogue: 0,0:14:46.11,0:14:47.35,Hero_Main,,0000,0000,0000,,Gracias…
+Dialogue: 0,0:14:48.31,0:14:52.10,Hero_Main,,0000,0000,0000,,La mademoiselle es el pilar de la U.A.
+Dialogue: 0,0:14:53.46,0:14:58.20,Hero_Main,,0000,0000,0000,,Cielos, ¿tanto daño te hiciste\Ncon tu propio Don?
+Dialogue: 0,0:14:59.87,0:15:03.83,Hero_Italics,,0000,0000,0000,,Es como si su cuerpo\Nno estuviera acostumbrado a su Don.
+Dialogue: 0,0:15:07.66,0:15:09.55,Hero_Main,,0000,0000,0000,,¡Beso…!
+Dialogue: 0,0:15:09.38,0:15:11.64,Hero_C_Tre,,0000,0000,0000,,¡Anciana!
+Dialogue: 0,0:15:11.64,0:15:13.62,Hero_Main,,0000,0000,0000,,¿Qué fue eso?
+Dialogue: 0,0:15:13.62,0:15:15.68,Hero_Main,,0000,0000,0000,,La enfermera de la escuela U.A.,
+Dialogue: 0,0:15:17.28,0:15:20.23,Hero_Main,,0000,0000,0000,,la heroína juvenil, Recovery Girl.
+Dialogue: 0,0:15:22.09,0:15:25.65,Hero_Main,,0000,0000,0000,,Su Don es la superactivación\Nde un poder curativo.
+Dialogue: 0,0:15:26.13,0:15:32.42,Hero_Main,,0000,0000,0000,,U.A. tiene un examen\Ntan imprudente gracias a ella.
+Dialogue: 0,0:15:34.28,0:15:37.54,Hero_Main,,0000,0000,0000,,Terminemos rápido.\N¿Alguien más está herido?
+Dialogue: 0,0:15:38.84,0:15:43.79,Hero_Italics,,0000,0000,0000,,¡Entiendo! Este examen está hecho así…
+Dialogue: 0,0:15:46.02,0:15:47.16,Hero_Italics,,0000,0000,0000,,Entonces, él…
+Dialogue: 0,0:15:52.93,0:15:55.93,Hero_A_Tre,,0000,0000,0000,,Una semana después
+Dialogue: 0,0:16:00.53,0:16:01.69,Hero_Main,,0000,0000,0000,,¿Izuku?
+Dialogue: 0,0:16:03.32,0:16:06.38,Hero_Main,,0000,0000,0000,,¿Izuku? ¿Izuku?
+Dialogue: 0,0:16:08.06,0:16:09.87,Hero_Main,,0000,0000,0000,,Oye, ¿estás bien?
+Dialogue: 0,0:16:09.87,0:16:11.88,Hero_Main,,0000,0000,0000,,¿Por qué le sonríes al pescado?
+Dialogue: 0,0:16:11.88,0:16:14.02,Hero_Main,,0000,0000,0000,,¡Lo siento! ¡Estoy bien!
+Dialogue: 0,0:16:19.69,0:16:24.01,Hero_Italics,,0000,0000,0000,,Según mis cálculos,\Nsé que aprobé por poco el escrito.
+Dialogue: 0,0:16:25.00,0:16:29.99,Hero_Italics,,0000,0000,0000,,Pero contrarresta\Ncon el gran cero del práctico.
+Dialogue: 0,0:16:31.32,0:16:35.61,Hero_Italics,,0000,0000,0000,,Y desde el día del examen\Nno pude contactar con All Might.
+Dialogue: 0,0:16:36.18,0:16:37.60,Hero_A_Tre,,0000,0000,0000,,Circular del vecindario
+Dialogue: 0,0:16:39.40,0:16:42.23,Hero_Main,,0000,0000,0000,,Los resultados\Nllegarán hoy o mañana, ¿no?
+Dialogue: 0,0:16:43.24,0:16:44.44,Hero_Main,,0000,0000,0000,,Sí…
+Dialogue: 0,0:16:44.44,0:16:49.16,Hero_Main,,0000,0000,0000,,Cielos, ¡creo que es increíble\Nque aplicaras en la U.A.!
+Dialogue: 0,0:16:49.67,0:16:50.58,Hero_Main,,0000,0000,0000,,Sí…
+Dialogue: 0,0:16:51.48,0:16:53.49,Hero_A_Tre,,0000,0000,0000,,Circular del vecindario
+Dialogue: 0,0:16:53.88,0:16:57.05,Hero_Italics,,0000,0000,0000,,Ni siquiera mi madre\Nsabe lo que pasó con All Might.
+Dialogue: 0,0:16:58.28,0:17:02.97,Hero_Italics,,0000,0000,0000,,Mantuve el secreto para que siguiera\Nsiendo el símbolo de la paz.
+Dialogue: 0,0:17:04.18,0:17:07.48,Hero_Italics,,0000,0000,0000,,No podía decírselo a nadie,\Ntampoco a mi familia.
+Dialogue: 0,0:17:15.09,0:17:19.46,Hero_Italics,,0000,0000,0000,,¡All Might! ¡Tras ver potencial en mí,\Nno cumplí tus expectativas!
+Dialogue: 0,0:17:20.13,0:17:23.85,Hero_Italics,,0000,0000,0000,,Pero hice lo que creía correcto.
+Dialogue: 0,0:17:24.96,0:17:27.69,Hero_Italics,,0000,0000,0000,,All Might, tú…
+Dialogue: 0,0:17:30.98,0:17:33.99,Hero_Main,,0000,0000,0000,,Izu-Izu-Izu… Izu-Izu-Izu… ¡Izuku!
+Dialogue: 0,0:17:34.82,0:17:36.61,Hero_Main,,0000,0000,0000,,¡Está aquí! ¡Llegó!
+Dialogue: 0,0:17:36.61,0:17:38.57,Hero_C_Tim,,0000,0000,0000,,Escuela U.A.
+Dialogue: 0,0:17:36.98,0:17:38.20,Hero_Main,,0000,0000,0000,,¡Está aquí!
+Dialogue: 0,0:18:02.70,0:18:05.52,Hero_Italics,,0000,0000,0000,,¡Estoy aquí como proyección!
+Dialogue: 0,0:18:05.52,0:18:07.16,Hero_Main,,0000,0000,0000,,¡¿All Might?!
+Dialogue: 0,0:18:07.83,0:18:09.84,Hero_Main,,0000,0000,0000,,Espera, esto es de la U.A., ¿no?
+Dialogue: 0,0:18:11.40,0:18:15.51,Hero_Italics,,0000,0000,0000,,Tenía un poco de papeleo\Ny no pude llamarte.
+Dialogue: 0,0:18:16.87,0:18:18.70,Hero_Italics,,0000,0000,0000,,Lo siento.
+Dialogue: 0,0:18:19.62,0:18:26.12,Hero_Italics,,0000,0000,0000,,En realidad, vine a esta ciudad\Npara trabajar en la U.A.
+Dialogue: 0,0:18:27.17,0:18:29.37,Hero_Main,,0000,0000,0000,,¿All Might trabaja en la U.A.?
+Dialogue: 0,0:18:31.32,0:18:33.01,Hero_Italics,,0000,0000,0000,,¿Qué pasa?
+Dialogue: 0,0:18:33.01,0:18:34.29,Hero_Italics,,0000,0000,0000,,¿Que acabe ya?
+Dialogue: 0,0:18:34.29,0:18:37.51,Hero_Italics,,0000,0000,0000,,Pero tengo que hablar con él de algo…
+Dialogue: 0,0:18:38.07,0:18:39.91,Hero_Italics,,0000,0000,0000,,¿Retrasaré a los demás?
+Dialogue: 0,0:18:40.34,0:18:43.46,Hero_Italics,,0000,0000,0000,,Muy bien. Ok.
+Dialogue: 0,0:18:46.96,0:18:50.48,Hero_Italics,,0000,0000,0000,,Aprobaste el escrito,\Npero tienes cero puntos en el práctico.
+Dialogue: 0,0:18:50.48,0:18:52.31,Hero_Italics,,0000,0000,0000,,Eso te supondría reprobar…
+Dialogue: 0,0:18:54.07,0:18:55.29,Hero_Italics,,0000,0000,0000,,Lo sabía.
+Dialogue: 0,0:18:56.64,0:18:57.99,Hero_Italics,,0000,0000,0000,,Lo sabía…
+Dialogue: 0,0:18:58.95,0:19:00.49,Hero_Italics,,0000,0000,0000,,Lo sabía, pero…
+Dialogue: 0,0:19:03.48,0:19:05.16,Hero_Italics,,0000,0000,0000,,Es tan frustrante…
+Dialogue: 0,0:19:06.64,0:19:08.89,Hero_Italics,,0000,0000,0000,,…pero eso es todo.
+Dialogue: 0,0:19:11.50,0:19:14.46,Hero_Italics,,0000,0000,0000,,¡Yo también soy un artista!
+Dialogue: 0,0:19:14.46,0:19:17.51,Hero_Italics,,0000,0000,0000,,Primero, ¡mira este video!
+Dialogue: 0,0:19:18.90,0:19:22.01,Hero_Italics,,0000,0000,0000,,Perdone, este…
+Dialogue: 0,0:19:23.32,0:19:24.64,Hero_Main,,0000,0000,0000,,¿La chica?
+Dialogue: 0,0:19:24.64,0:19:28.22,Hero_Italics,,0000,0000,0000,,¡Vino a negociar en persona\Ntras el examen!
+Dialogue: 0,0:19:29.52,0:19:31.29,Hero_Italics,,0000,0000,0000,,¿Negociar qué?
+Dialogue: 0,0:19:31.29,0:19:33.10,Hero_Italics,,0000,0000,0000,,¡Sigue mirando para saberlo!
+Dialogue: 0,0:19:33.48,0:19:39.14,Hero_Italics,,0000,0000,0000,,La persona con pelo crespo y pecas…
+Dialogue: 0,0:19:39.14,0:19:40.71,Hero_Italics,,0000,0000,0000,,¿Sabe de quién hablo?
+Dialogue: 0,0:19:40.71,0:19:43.07,Hero_Italics,,0000,0000,0000,,Este… Era como del montón…
+Dialogue: 0,0:19:43.07,0:19:44.72,Hero_Italics,,0000,0000,0000,,¡Soy yo!
+Dialogue: 0,0:19:44.72,0:19:49.37,Hero_Italics,,0000,0000,0000,,¿Es posible que le dé\Nalgunos de mis puntos?
+Dialogue: 0,0:19:50.54,0:19:55.40,Hero_Main,,0000,0000,0000,,Lo escuché decir:\N"Si solo puedo obtener un punto".
+Dialogue: 0,0:19:55.88,0:19:59.13,Hero_Italics,,0000,0000,0000,,Pensé que seguía con cero puntos…
+Dialogue: 0,0:19:59.45,0:20:02.30,Hero_Italics,,0000,0000,0000,,¿Qué demonios puedes hacer tú?
+Dialogue: 0,0:20:02.30,0:20:05.14,Hero_Italics,,0000,0000,0000,,Al menos los puntos\Nque perdió por mi culpa…
+Dialogue: 0,0:20:05.60,0:20:09.35,Hero_Italics,,0000,0000,0000,,¡No había razón\Npara ponerte en peligro!
+Dialogue: 0,0:20:09.35,0:20:11.52,Hero_Italics,,0000,0000,0000,,¡Él me salvó!
+Dialogue: 0,0:20:13.20,0:20:17.82,Hero_Italics,,0000,0000,0000,,¡Por favor! ¡Por favor! ¡Por favor!
+Dialogue: 0,0:20:19.57,0:20:21.40,Hero_Italics,,0000,0000,0000,,Ahora, además de tener un Don,
+Dialogue: 0,0:20:21.41,0:20:23.74,Hero_Italics,,0000,0000,0000,,tus acciones impulsaron\Na otros a actuar.
+Dialogue: 0,0:20:28.73,0:20:33.37,Hero_Italics,,0000,0000,0000,,¡En el examen del otro día\Nno solo contaban los villanos!
+Dialogue: 0,0:20:35.52,0:20:38.71,Hero_Italics,,0000,0000,0000,,Aunque me lo pidas,\Nno puedo darle tus puntos.
+Dialogue: 0,0:20:38.71,0:20:42.60,Hero_Italics,,0000,0000,0000,,De todos modos, no será necesario.
+Dialogue: 0,0:20:44.78,0:20:47.44,Hero_Italics,,0000,0000,0000,,¿Cómo rechazaría una escuela de héroes
+Dialogue: 0,0:20:47.44,0:20:50.70,Hero_Italics,,0000,0000,0000,,a alguien que salva a los demás\Ny hace lo correcto?
+Dialogue: 0,0:20:51.44,0:20:53.73,Hero_Italics,,0000,0000,0000,,¿No sería solo palabrería?
+Dialogue: 0,0:20:54.47,0:20:55.88,Hero_Italics,,0000,0000,0000,,¡Ni hablar!
+Dialogue: 0,0:20:55.88,0:20:58.21,Hero_Italics,,0000,0000,0000,,¡En este trabajo se arriesga la vida
+Dialogue: 0,0:20:58.21,0:21:00.82,Hero_Italics,,0000,0000,0000,,y se pone en práctica esa palabrería!
+Dialogue: 0,0:21:01.86,0:21:03.32,Hero_Italics,,0000,0000,0000,,¡Puntos de rescate!
+Dialogue: 0,0:21:04.36,0:21:06.32,Hero_Italics,,0000,0000,0000,,Y los otorgan unos jueces.
+Dialogue: 0,0:21:06.68,0:21:10.70,Hero_Italics,,0000,0000,0000,,¡Es la otra habilidad básica\Nque busca la U.A.!
+Dialogue: 0,0:21:12.86,0:21:15.46,Hero_Italics,,0000,0000,0000,,¡Izuku Midoriya: 60 puntos!
+Dialogue: 0,0:21:16.92,0:21:20.84,Hero_Italics,,0000,0000,0000,,¡Y Ochaco Uraraka: 45 puntos!
+Dialogue: 0,0:21:22.84,0:21:24.59,Hero_Italics,,0000,0000,0000,,Aprobaron los dos.
+Dialogue: 0,0:21:27.03,0:21:28.78,Hero_Main,,0000,0000,0000,,Es de locos…
+Dialogue: 0,0:21:32.53,0:21:35.48,Hero_Italics,,0000,0000,0000,,Vamos, joven Midoriya.
+Dialogue: 0,0:21:39.65,0:21:43.48,Hero_Italics,,0000,0000,0000,,¡Esta es tu academia de héroes!
+Dialogue: 0,0:21:47.38,0:21:48.47,Hero_Main,,0000,0000,0000,,¡Sí, señor!
+Dialogue: 0,0:21:51.19,0:21:53.08,Hero_Italics,,0000,0000,0000,,Tras recibir mucha ayuda,
+Dialogue: 0,0:21:54.55,0:21:56.81,Hero_Italics,,0000,0000,0000,,mi vida cambió y siguió cambiando.
+Dialogue: 0,0:21:58.39,0:22:02.36,Hero_Italics,,0000,0000,0000,,Y ahora, mi vida en esa escuela\Nestá por empezar.
+Dialogue: 0,0:23:53.28,0:23:58.28,Hero_Main,,0000,0000,0000,,¡Izuku!
+Dialogue: 0,0:23:56.03,0:24:00.04,Hero_B_Tre,,0000,0000,0000,,Dieta
+Dialogue: 0,0:24:00.04,0:24:02.04,Hero_Avance,,0000,0000,0000,,Próximo episodio
+Dialogue: 0,0:24:02.53,0:24:04.42,Hero_Main,,0000,0000,0000,,¡Bienvenido, joven Midoriya!
+Dialogue: 0,0:24:04.42,0:24:07.67,Hero_Main,,0000,0000,0000,,¡Esta es tu academia de héroes, la U.A.!
+Dialogue: 0,0:24:07.67,0:24:11.38,Hero_Main,,0000,0000,0000,,All Might, ¡me esforzaré\Nen la evaluación de Dones!
+Dialogue: 0,0:24:11.38,0:24:15.77,Hero_Main,,0000,0000,0000,,Tu tutor, Aizawa, no muestra piedad\Ny expulsa a los que lo hacen mal.
+Dialogue: 0,0:24:15.77,0:24:16.78,Hero_Main,,0000,0000,0000,,¡Ten cuidado!
+Dialogue: 0,0:24:18.75,0:24:21.26,Hero_Main,,0000,0000,0000,,Próximamente:\N"Lo que puedo hacer por ahora".
+Dialogue: 0,0:24:21.26,0:24:23.77,Hero_Main,,0000,0000,0000,,¡No, el dedo índice del joven Midoriya…!
+Dialogue: 0,0:24:24.87,0:24:26.70,Hero_Main,,0000,0000,0000,,¡Ve más allá!
+Dialogue: 0,0:24:26.06,0:24:30.07,Hero_Next,,0000,0000,0000,,Próximo episodio\NLo que puedo hacer por ahora
+Dialogue: 0,0:24:26.70,0:24:29.34,Hero_Main,,0000,0000,0000,,¡Plus Ultra!
